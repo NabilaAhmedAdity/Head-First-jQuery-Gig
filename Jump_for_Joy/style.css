@@ -20,3 +20,7 @@ p{
 	position: absolute;
     bottom: 350px;
 }
+
+.my_hover{
+	border: solid #00f 3px;
+}
